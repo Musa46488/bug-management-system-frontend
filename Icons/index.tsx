@@ -1,0 +1,10 @@
+export { default as ManagerIcon } from "./ManagerIcon";
+export { default as DeveloperIcon } from "./DeveloperIcon";
+export { default as QAIcon } from "./QAIcon";
+export { default as ProfileIcon } from "./ProfileIcon";
+export { default as MobileIcon } from "./MobileIcon";
+export { default as EmailIcon } from "./EmailIcon";
+export { default as LockIcon } from "./LockIcon";
+export { default as ProjectIcon } from "./ProjectIcon";
+export { default as BugIcon } from "./BugIcon";
+export { default as SearchIcon } from "./SearchIcon";
