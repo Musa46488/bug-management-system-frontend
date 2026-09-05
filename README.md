@@ -52,10 +52,6 @@ PostgreSQL
 
 [View Backend API](https://github.com/Musa46488/bug-management-system-api)
 
-## Screenshots
-
-Add your application screenshots here.
-
 ## Running Locally
 
 ```bash
